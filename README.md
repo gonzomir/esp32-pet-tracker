@@ -7,6 +7,7 @@ Relevant documentation and examples:
 - [LiliGO T-SIM7600 example code on GitHub](https://github.com/Xinyuan-LilyGO/T-SIM7600X)
 - [TinyGSM library](https://github.com/vshymanskyy/TinyGSM/) and [PR for adding HTTPS support to SIM7600](https://github.com/vshymanskyy/TinyGSM/pull/767)
 - [Home Assistant REST API docs](https://developers.home-assistant.io/docs/api/rest/)
+- [Home Assistant `device_tracker` entity documentation](https://developers.home-assistant.io/docs/core/entity/device-tracker/)
 
 == Initial Plan / Requiremens
 
